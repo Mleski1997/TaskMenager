@@ -1,0 +1,25 @@
+nav {
+    width: 100%;
+}
+
+
+nav .nav-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    
+    
+}
+
+nav .nav-link:hover{
+    color: rgb(139, 139, 139);
+    
+}
+nav .nav-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
