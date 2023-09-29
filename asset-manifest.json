@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TaskMenager/static/css/main.a08d6670.css",
+    "main.js": "/TaskMenager/static/js/main.abf8223d.js",
+    "static/media/todoimg.jpg": "/TaskMenager/static/media/todoimg.5ff671cf299b00de1fab.jpg",
+    "static/media/notes.jpg": "/TaskMenager/static/media/notes.d490befb6831278109a4.jpg",
+    "index.html": "/TaskMenager/index.html",
+    "main.a08d6670.css.map": "/TaskMenager/static/css/main.a08d6670.css.map",
+    "main.abf8223d.js.map": "/TaskMenager/static/js/main.abf8223d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a08d6670.css",
+    "static/js/main.abf8223d.js"
+  ]
+}
